@@ -1768,14 +1768,14 @@ a {
 .cid-rZABJ6u13z {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-color: #f3f7ee;
+  background-color: #feffae;
 }
 .cid-rZABJ6u13z H2 {
   color: #02c62c;
 }
 .cid-rZABJ6u13z .mbr-text,
 .cid-rZABJ6u13z .mbr-section-btn {
-  color: #808080;
+  color: #0e0e0e;
 }
 .cid-rZABJ6u13z img {
   max-width: 1000px;
@@ -1788,10 +1788,18 @@ a {
   }
 }
 .cid-rZABJ6u13z H1 {
-  color: #29361a;
+  color: #e7272d;
+}
+.cid-rZALXBDCpl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #fbbe36;
+}
+.cid-rZALXBDCpl H2 {
+  color: #e7272d;
 }
 .cid-rZsjjIKZcp {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background: #efefef;
   background: linear-gradient(90deg, #efefef, #f9f295);
